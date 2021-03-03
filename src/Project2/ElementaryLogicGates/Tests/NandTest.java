@@ -1,7 +1,7 @@
 package Project2.ElementaryLogicGates.Tests;
 
 import Project2.ElementaryLogicGates.Nand;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;

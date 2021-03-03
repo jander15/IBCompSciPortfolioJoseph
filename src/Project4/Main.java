@@ -9,7 +9,6 @@ public class  Main {
         String dir = "C:\\Users\\josep\\Documents\\IBCompSci\\IBCompSciPortfolio\\src\\Project4\\";
 
 
-
         File myfile = new File(dir+"Unsorted.csv");
         Parser parser = new Parser(myfile);
         parser.findAverage();
